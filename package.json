@@ -1,0 +1,12 @@
+{
+  "name": "Crappy Bird",
+  "type": "static",
+  "displayName": "Crappy Bird",
+  "version": "1.0.0",
+  "description": "Flappy-bird html5 clone",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/frankrousseau/CrappyBird.git"
+  },
+  "main": "index.html",
+}
