@@ -8,5 +8,5 @@
     "type": "git",
     "url": "https://github.com/frankrousseau/CrappyBird.git"
   },
-  "main": "index.html",
+  "main": "index.html"
 }
