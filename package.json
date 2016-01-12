@@ -1,5 +1,6 @@
 {
   "name": "crappy-bird",
+  "cozy-type": "static",
   "type": "static",
   "displayName": "Crappy Bird",
   "version": "1.0.0",
